@@ -1,0 +1,723 @@
+[class^="zomojianim-24"] {
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: steps(120);
+    animation-name: zomojianim-24;
+    -moz-transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    image-rendering: -webkit-optimize-contrast;
+    height: 24px;
+    width: 24px;
+    vertical-align: middle;
+    display: inline-block;
+    cursor: default;
+}
+
+@keyframes zomojianim-24 {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0px -3001px;
+    }
+}
+
+@-webkit-keyframes zomojianim-24 {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0px -3001px;
+    }
+}
+
+@-moz-keyframes zomojianim-24 {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0px -3001px;
+    }
+}
+
+@keyframes zomojianim-24-angry {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0px -2999px;
+    }
+}
+
+@-webkit-keyframes zomojianim-24-angry {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0px -2999px;
+    }
+}
+
+@-moz-keyframes zomojianim-24-angry {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0px -2999px;
+    }
+}
+
+@keyframes zomojianim-24-athlete {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -599px;
+    }
+}
+
+@-webkit-keyframes zomojianim-24-athlete {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -599px;
+    }
+}
+
+@-moz-keyframes zomojianim-24-athlete {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -599px;
+    }
+}
+
+@keyframes zomojianim-24-discus {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2626px;
+    }
+}
+
+@-webkit-keyframes zomojianim-24-discus {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2626px;
+    }
+}
+
+@-moz-keyframes zomojianim-24-discus {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2626px;
+    }
+}
+
+@keyframes zomojianim-24-equestrian {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2001px;
+    }
+}
+
+@-webkit-keyframes zomojianim-24-equestrian {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2001px;
+    }
+}
+
+@-moz-keyframes zomojianim-24-equestrian {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2001px;
+    }
+}
+
+@keyframes zomojianim-24-javelin {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2726px;
+    }
+}
+
+@-webkit-keyframes zomojianim-24-javelin {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2726px;
+    }
+}
+
+@-moz-keyframes zomojianim-24-javelin {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2726px;
+    }
+}
+
+@keyframes zomojianim-24-judo {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2026px;
+    }
+}
+
+@-webkit-keyframes zomojianim-24-judo {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2026px;
+    }
+}
+
+@-moz-keyframes zomojianim-24-judo {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2026px;
+    }
+}
+
+@keyframes zomojianim-24-jump {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2526px;
+    }
+}
+
+@-webkit-keyframes zomojianim-24-jump {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2526px;
+    }
+}
+
+@-moz-keyframes zomojianim-24-jump {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2526px;
+    }
+}
+
+@keyframes zomojianim-24-shortput {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2776px;
+    }
+}
+
+@-webkit-keyframes zomojianim-24-shortput {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2776px;
+    }
+}
+
+@-moz-keyframes zomojianim-24-shortput {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2776px;
+    }
+}
+
+@keyframes zomojianim-24-fire {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2451px;
+    }
+}
+
+@-webkit-keyframes zomojianim-24-fire {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2451px;
+    }
+}
+
+@-moz-keyframes zomojianim-24-fire {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -2451px;
+    }
+}
+
+@keyframes zomojianim-24-diver {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -1626px;
+    }
+}
+
+@-webkit-keyframes zomojianim-24-diver {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -1626px;
+    }
+}
+
+@-moz-keyframes zomojianim-24-diver {
+    0% {
+        background-position: 0 -1px;
+    }
+    100% {
+        background-position: 0 -1626px;
+    }
+}
+
+.zomojianim-24-anxious {
+    background: url(/images/play_animation/24/anxious.png);
+}
+
+.zomojianim-24-awe {
+    background: url(/images/play_animation/24/awe.png) no-repeat;
+}
+
+.zomojianim-24-blush {
+    background: url(/images/play_animation/24/blush.png) no-repeat;
+}
+
+.zomojianim-24-bored {
+    background: url(/images/play_animation/24/bored.png) no-repeat;
+}
+
+.zomojianim-24-cool {
+    background: url(/images/play_animation/24/cool.png) no-repeat;
+}
+
+.zomojianim-24-curious {
+    background: url(/images/play_animation/24/curious.png) no-repeat;
+}
+
+.zomojianim-24-doubt {
+    background: url(/images/play_animation/24/doubt.png) no-repeat;
+}
+
+.zomojianim-24-evil {
+    background: url(/images/play_animation/24/evil.png) no-repeat;
+}
+
+.zomojianim-24-facepalm {
+    background: url(/images/play_animation/24/facepalm.png) no-repeat;
+}
+
+.zomojianim-24-faint {
+    background: url(/images/play_animation/24/faint.png) no-repeat;
+}
+
+.zomojianim-24-feeling-warm {
+    background: url(/images/play_animation/24/feeling-warm.png) no-repeat;
+}
+
+.zomojianim-24-feeling-cold {
+    background: url(/images/play_animation/24/feeling-cold.png) no-repeat;
+}
+
+.zomojianim-24-grinning {
+    background: url(/images/play_animation/24/grinning.png) no-repeat;
+}
+
+.zomojianim-24-happy {
+    background: url(/images/play_animation/24/happy.png) no-repeat;
+}
+
+.zomojianim-24-headache {
+    background: url(/images/play_animation/24/headache.png) no-repeat;
+}
+
+.zomojianim-24-idea {
+    background: url(/images/play_animation/24/idea.png) no-repeat;
+}
+
+.zomojianim-24-injured {
+    background: url(/images/play_animation/24/injured.png) no-repeat;
+}
+
+.zomojianim-24-jealous {
+    background: url(/images/play_animation/24/jealous.png) no-repeat;
+}
+
+.zomojianim-24-joy {
+    background: url(/images/play_animation/24/joy.png) no-repeat;
+}
+
+.zomojianim-24-keep-quiet {
+    background: url(/images/play_animation/24/keep-quiet.png) no-repeat;
+}
+
+.zomojianim-24-love {
+    background: url(/images/play_animation/24/love.png) no-repeat;
+}
+
+.zomojianim-24-neutral {
+    background: url(/images/play_animation/24/neutral.png) no-repeat;
+}
+
+.zomojianim-24-peace {
+    background: url(/images/play_animation/24/peace.png) no-repeat;
+}
+
+.zomojianim-24-razz {
+    background: url(/images/play_animation/24/razz.png) no-repeat;
+}
+
+.zomojianim-24-relaxed {
+    background: url(/images/play_animation/24/relaxed.png) no-repeat;
+}
+
+.zomojianim-24-sad {
+    background: url(/images/play_animation/24/sad.png) no-repeat;
+}
+
+.zomojianim-24-search {
+    background: url(/images/play_animation/24/search.png) no-repeat;
+}
+
+.zomojianim-24-sick {
+    background: url(/images/play_animation/24/sick.png) no-repeat;
+}
+
+.zomojianim-24-sleepy {
+    background: url(/images/play_animation/24/sleepy.png) no-repeat;
+}
+
+.zomojianim-24-smile {
+    background: url(/images/play_animation/24/smile.png) no-repeat;
+}
+
+.zomojianim-24-smirk {
+    background: url(/images/play_animation/24/smirk.png) no-repeat;
+}
+
+.zomojianim-24-stressed-out {
+    background: url(/images/play_animation/24/stressed-out.png) no-repeat;
+}
+
+.zomojianim-24-surprise {
+    background: url(/images/play_animation/24/surprise.png) no-repeat;
+}
+
+.zomojianim-24-tensed {
+    background: url(/images/play_animation/24/tensed.png) no-repeat;
+}
+
+.zomojianim-24-thinking {
+    background: url(/images/play_animation/24/thinking.png) no-repeat;
+}
+
+.zomojianim-24-tired {
+    background: url(/images/play_animation/24/tired.png) no-repeat;
+}
+
+.zomojianim-24-upset {
+    background: url(/images/play_animation/24/upset.png) no-repeat;
+}
+
+.zomojianim-24-wink {
+    background: url(/images/play_animation/24/wink.png) no-repeat;
+}
+
+.zomojianim-24-worry {
+    background: url(/images/play_animation/24/worry.png) no-repeat;
+}
+
+.zomojianim-24-yuck {
+    background: url(/images/play_animation/24/yuck.png) no-repeat;
+}
+
+.zomojianim-24-yummy {
+    background: url(/images/play_animation/24/yummy.png) no-repeat;
+}
+
+.zomojianim-24-biceps {
+    background: url(/images/play_animation/24/biceps.png) no-repeat;
+}
+
+.zomojianim-24-bye-bye {
+    background: url(/images/play_animation/24/bye-bye.png) no-repeat;
+}
+
+.zomojianim-24-clap {
+    background: url(/images/play_animation/24/clap.png) no-repeat;
+}
+
+.zomojianim-24-fist {
+    background: url(/images/play_animation/24/fist.png) no-repeat;
+}
+
+.zomojianim-24-namaste {
+    background: url(/images/play_animation/24/namaste.png) no-repeat;
+}
+
+.zomojianim-24-raising-hand {
+    background: url(/images/play_animation/24/raising-hand.png) no-repeat;
+}
+
+.zomojianim-24-super {
+    background: url(/images/play_animation/24/super.png) no-repeat;
+}
+
+.zomojianim-24-thumbsdown {
+    background: url(/images/play_animation/24/thumbsdown.png) no-repeat;
+}
+
+.zomojianim-24-thumbsup {
+    background: url(/images/play_animation/24/thumbsup.png) no-repeat;
+}
+
+.zomojianim-24-victory {
+    background: url(/images/play_animation/24/victory.png) no-repeat;
+}
+
+.zomojianim-24-yoyo {
+    background: url(/images/play_animation/24/yoyo.png) no-repeat;
+}
+
+.zomojianim-24-birthday {
+    background: url(/images/play_animation/24/birthday.png) no-repeat;
+}
+
+.zomojianim-24-christmas-tree {
+    background: url(/images/play_animation/24/christmas-tree.png) no-repeat;
+}
+
+.zomojianim-24-coffee-cup {
+    background: url(/images/play_animation/24/coffee-cup.png) no-repeat;
+}
+
+.zomojianim-24-eid-mubarak {
+    background: url(/images/play_animation/24/eid-mubarak.png) no-repeat;
+}
+
+.zomojianim-24-fireworks {
+    background: url(/images/play_animation/24/fireworks.png) no-repeat;
+}
+
+.zomojianim-24-food {
+    background: url(/images/play_animation/24/food.png) no-repeat;
+}
+
+.zomojianim-24-gift-box {
+    background: url(/images/play_animation/24/gift-box.png) no-repeat;
+}
+
+.zomojianim-24-kaaba {
+    background: url(/images/play_animation/24/kaaba.png) no-repeat;
+}
+
+.zomojianim-24-new-year {
+    background: url(/images/play_animation/24/new-year.png) no-repeat;
+}
+
+.zomojianim-24-party {
+    background: url(/images/play_animation/24/party.png) no-repeat;
+}
+
+.zomojianim-24-santa-hat {
+    background: url(/images/play_animation/24/santa-hat.png) no-repeat;
+}
+
+.zomojianim-24-fire {
+    background: url(/images/play_animation/24/fire.png) no-repeat;
+    animation-timing-function: steps(98);
+    animation-duration: 3s;
+    animation-name: zomojianim-24-fire;
+}
+
+.zomojianim-24-medicine {
+    background: url(/images/play_animation/24/medicine.png) no-repeat;
+}
+
+.zomojianim-24-poop {
+    background: url(/images/play_animation/24/poop.png) no-repeat;
+}
+
+.zomojianim-24-flag {
+    background: url(/images/play_animation/24/flag.png) no-repeat;
+}
+
+.zomojianim-24-table-tennis {
+    background: url(/images/play_animation/24/table-tennis.png) no-repeat;
+}
+
+.zomojianim-24-canoeing {
+    background: url(/images/play_animation/24/canoeing.png) no-repeat;
+}
+
+.zomojianim-24-archer {
+    background: url(/images/play_animation/24/archer.png) no-repeat;
+}
+
+.zomojianim-24-boxer {
+    background: url(/images/play_animation/24/boxer.png) no-repeat;
+}
+
+.zomojianim-24-badminton {
+    background: url(/images/play_animation/24/badminton.png) no-repeat;
+}
+
+.zomojianim-24-chess {
+    background: url(/images/play_animation/24/chess.png) no-repeat;
+}
+
+.zomojianim-24-snooker {
+    background: url(/images/play_animation/24/snooker.png) no-repeat;
+}
+
+.zomojianim-24-baseball {
+    background: url(/images/play_animation/24/baseball.png) no-repeat;
+}
+
+.zomojianim-24-cricket {
+    background: url(/images/play_animation/24/cricket.png) no-repeat;
+}
+
+.zomojianim-24-foosball {
+    background: url(/images/play_animation/24/foosball.png) no-repeat;
+}
+
+.zomojianim-24-basketball {
+    background: url(/images/play_animation/24/basketball.png) no-repeat;
+}
+
+.zomojianim-24-shooter {
+    background: url(/images/play_animation/24/shooter.png) no-repeat;
+}
+
+.zomojianim-24-fencer {
+    background: url(/images/play_animation/24/fencer.png) no-repeat;
+}
+
+.zomojianim-24-football {
+    background: url(/images/play_animation/24/football.png) no-repeat;
+}
+
+.zomojianim-24-hockey {
+    background: url(/images/play_animation/24/hockey.png) no-repeat;
+}
+
+.zomojianim-24-hurdler {
+    background: url(/images/play_animation/24/hurdler.png) no-repeat;
+}
+
+.zomojianim-24-pole-vault {
+    background: url(/images/play_animation/24/pole-vault.png) no-repeat;
+}
+
+.zomojianim-24-rhythmic-gymnastics {
+    background: url(/images/play_animation/24/rhythmic-gymnastics.png) no-repeat;
+}
+
+.zomojianim-24-discus-throw {
+    background: url(/images/play_animation/24/discus-throw.png) no-repeat;
+    animation-timing-function: steps(105);
+    animation-duration: 3s;
+    animation-name: zomojianim-24-discus
+}
+
+.zomojianim-24-diver {
+    background: url(/images/play_animation/24/diver.png) no-repeat;
+    animation-timing-function: steps(65);
+    animation-duration: 3s;
+    animation-name: zomojianim-24-diver
+}
+
+.zomojianim-24-equestrian {
+    background: url(/images/play_animation/24/equestrian.png) no-repeat;
+    animation-timing-function: steps(80);
+    animation-duration: 3s;
+    animation-name: zomojianim-24-equestrian
+}
+
+.zomojianim-24-javelin-throw {
+    background: url(/images/play_animation/24/javelin-throw.png) no-repeat;
+    animation-timing-function: steps(109);
+    animation-duration: 3s;
+    animation-name: zomojianim-24-javelin
+}
+
+.zomojianim-24-judo {
+    background: url(/images/play_animation/24/judo.png) no-repeat;
+    animation-timing-function: steps(81);
+    animation-duration: 3s;
+    animation-name: zomojianim-24-judo
+}
+
+.zomojianim-24-long-jump {
+    background: url(/images/play_animation/24/long-jump.png) no-repeat;
+    animation-timing-function: steps(101);
+    animation-duration: 3s;
+    animation-name: zomojianim-24-jump
+}
+
+.zomojianim-24-athlete {
+    background: url(/images/play_animation/24/athlete.png) no-repeat;
+    animation-timing-function: steps(24);
+    animation-duration: 1s;
+    animation-name: zomojianim-24-athlete;
+}
+
+.zomojianim-24-shotput-throw {
+    background: url(/images/play_animation/24/shotput-throw.png) no-repeat;
+    animation-timing-function: steps(111);
+    animation-duration: 3s;
+    animation-name: zomojianim-24-shortput
+}
+
+.zomojianim-24-high-jump {
+    background: url(/images/play_animation/24/high-jump.png) no-repeat;
+    animation-timing-function: steps(101);
+    animation-duration: 3s;
+    animation-name: zomojianim-24-jump
+}
+
+.zomojianim-24-angry {
+    background: url(/images/play_animation/24/angry.png) no-repeat;
+    animation-name: zomojianim-24-angry;
+}
