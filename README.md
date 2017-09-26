@@ -1,5 +1,17 @@
 # zomoji-web-library
-This repo contains js, css and image files required to convert text smiley codes into zomojis.
+This library can change this ":curious:" 
+
+into this 
+
+<img src="../readme_assets/curious-work.png?raw=true" alt="curious" height="48" width="48">
+
+or this 
+
+<img src="../readme_assets/curious-play.png?raw=true" alt="curious" height="48" width="48">
+
+or this :O
+
+<img src="../readme_assets/curious.gif?raw=true" alt="curious">
 
 # Usage
 Include the js and required css file based on the size and type
