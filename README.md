@@ -1,5 +1,5 @@
 # zomoji-web-library
-This library can change this ":curious:" 
+This library can convert this ":curious:" 
 
 into this 
 
@@ -26,6 +26,10 @@ var config = {};
 var zomoji = new Zomoji( config ); //config optional
 var zomojifiedhtml = zomoji.replace( textcontent );
 //Insert this zomojifiedhtml to get zomoji in the place of text content.
+
+//Sample zomoji.replace conversion 
+//Input "Hello :) How are you :curious!:"
+//Output "Hello <em title=smile class='zomoji-w-24-smile'></em> How are you <em title=curious class='zomojianim-24-curious'></em>"
 </script>
 ```
 
