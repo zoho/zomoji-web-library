@@ -37,3 +37,7 @@ Supported options are:
 * along_text_size //Size for the zomoji when it comes along the text
 
 Available size options are 24, 48, 72
+
+# Live zomojis
+To get live zomojis (animated version) exclamation need to be appended in the text code.
+For example, :smile!: will show live version of zomoji
