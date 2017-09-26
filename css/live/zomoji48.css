@@ -293,319 +293,319 @@
 
 /* Retina-specific stuff here */
 .zomojianim-48-angry {
-    background-image: url(/images/play_animation/48/angry.png);
+    background-image: url(/images/live/48/angry.png);
 }
 .zomojianim-48-anxious {
     animation-duration: 4s;
     animation-name: zomojianim-48-anxious;
-    background-image: url(/images/play_animation/48/anxious.png);
+    background-image: url(/images/live/48/anxious.png);
 }
 .zomojianim-48-awe {
-    background-image: url(/images/play_animation/48/awe.png);
+    background-image: url(/images/live/48/awe.png);
 }
 .zomojianim-48-blush {
-    background-image: url(/images/play_animation/48/blush.png);
+    background-image: url(/images/live/48/blush.png);
 }
 .zomojianim-48-bored {
-    background-image: url(/images/play_animation/48/bored.png);
+    background-image: url(/images/live/48/bored.png);
 }
 .zomojianim-48-cool {
-    background-image: url(/images/play_animation/48/cool.png);
+    background-image: url(/images/live/48/cool.png);
 }
 .zomojianim-48-curious {
-    background-image: url(/images/play_animation/48/curious.png);
+    background-image: url(/images/live/48/curious.png);
 }
 .zomojianim-48-doubt {
-    background-image: url(/images/play_animation/48/doubt.png);
+    background-image: url(/images/live/48/doubt.png);
 }
 .zomojianim-48-evil {
-    background-image: url(/images/play_animation/48/evil.png);
+    background-image: url(/images/live/48/evil.png);
 }
 .zomojianim-48-facepalm {
-    background-image: url(/images/play_animation/48/facepalm.png);
+    background-image: url(/images/live/48/facepalm.png);
 }
 .zomojianim-48-faint {
-    background-image: url(/images/play_animation/48/faint.png);
+    background-image: url(/images/live/48/faint.png);
 }
 .zomojianim-48-feeling-warm {
-    background-image: url(/images/play_animation/48/feeling-warm.png);
+    background-image: url(/images/live/48/feeling-warm.png);
 }
 .zomojianim-48-feeling-cold {
-    background-image: url(/images/play_animation/48/feeling-cold.png);
+    background-image: url(/images/live/48/feeling-cold.png);
 }
 .zomojianim-48-grinning {
-    background-image: url(/images/play_animation/48/grinning.png);
+    background-image: url(/images/live/48/grinning.png);
 }
 .zomojianim-48-happy {
-    background-image: url(/images/play_animation/48/happy.png);
+    background-image: url(/images/live/48/happy.png);
 }
 .zomojianim-48-headache {
-    background-image: url(/images/play_animation/48/headache.png);
+    background-image: url(/images/live/48/headache.png);
 }
 .zomojianim-48-idea {
-    background-image: url(/images/play_animation/48/idea.png);
+    background-image: url(/images/live/48/idea.png);
 }
 .zomojianim-48-injured {
-    background-image: url(/images/play_animation/48/injured.png);
+    background-image: url(/images/live/48/injured.png);
 }
 .zomojianim-48-jealous {
-    background-image: url(/images/play_animation/48/jealous.png);
+    background-image: url(/images/live/48/jealous.png);
 }
 .zomojianim-48-joy {
-    background-image: url(/images/play_animation/48/joy.png);
+    background-image: url(/images/live/48/joy.png);
 }
 .zomojianim-48-keep-quiet {
-    background-image: url(/images/play_animation/48/keep-quiet.png);
+    background-image: url(/images/live/48/keep-quiet.png);
 }
 .zomojianim-48-love {
-    background-image: url(/images/play_animation/48/love.png);
+    background-image: url(/images/live/48/love.png);
 }
 .zomojianim-48-neutral {
-    background-image: url(/images/play_animation/48/neutral.png);
+    background-image: url(/images/live/48/neutral.png);
 }
 .zomojianim-48-peace {
-    background-image: url(/images/play_animation/48/peace.png);
+    background-image: url(/images/live/48/peace.png);
 }
 .zomojianim-48-razz {
-    background-image: url(/images/play_animation/48/razz.png);
+    background-image: url(/images/live/48/razz.png);
 }
 .zomojianim-48-relaxed {
-    background-image: url(/images/play_animation/48/relaxed.png);
+    background-image: url(/images/live/48/relaxed.png);
 }
 .zomojianim-48-sad {
-    background-image: url(/images/play_animation/48/sad.png);
+    background-image: url(/images/live/48/sad.png);
 }
 .zomojianim-48-search {
-    background-image: url(/images/play_animation/48/search.png);
+    background-image: url(/images/live/48/search.png);
 }
 .zomojianim-48-sick {
-    background-image: url(/images/play_animation/48/sick.png);
+    background-image: url(/images/live/48/sick.png);
 }
 .zomojianim-48-sleepy {
-    background-image: url(/images/play_animation/48/sleepy.png);
+    background-image: url(/images/live/48/sleepy.png);
 }
 .zomojianim-48-smile {
-    background-image: url(/images/play_animation/48/smile.png);
+    background-image: url(/images/live/48/smile.png);
 }
 .zomojianim-48-smirk {
-    background-image: url(/images/play_animation/48/smirk.png);
+    background-image: url(/images/live/48/smirk.png);
 }
 .zomojianim-48-stressed-out {
-    background-image: url(/images/play_animation/48/stressed-out.png);
+    background-image: url(/images/live/48/stressed-out.png);
 }
 .zomojianim-48-surprise {
-    background-image: url(/images/play_animation/48/surprise.png);
+    background-image: url(/images/live/48/surprise.png);
 }
 .zomojianim-48-tensed {
-    background-image: url(/images/play_animation/48/tensed.png);
+    background-image: url(/images/live/48/tensed.png);
 }
 .zomojianim-48-thinking {
-    background-image: url(/images/play_animation/48/thinking.png);
+    background-image: url(/images/live/48/thinking.png);
 }
 .zomojianim-48-tired {
-    background-image: url(/images/play_animation/48/tired.png);
+    background-image: url(/images/live/48/tired.png);
 }
 .zomojianim-48-upset {
-    background-image: url(/images/play_animation/48/upset.png);
+    background-image: url(/images/live/48/upset.png);
 }
 .zomojianim-48-wink {
-    background-image: url(/images/play_animation/48/wink.png);
+    background-image: url(/images/live/48/wink.png);
 }
 .zomojianim-48-worry {
-    background-image: url(/images/play_animation/48/worry.png);
+    background-image: url(/images/live/48/worry.png);
 }
 .zomojianim-48-yuck {
-    background-image: url(/images/play_animation/48/yuck.png);
+    background-image: url(/images/live/48/yuck.png);
 }
 .zomojianim-48-yummy {
-    background-image: url(/images/play_animation/48/yummy.png);
+    background-image: url(/images/live/48/yummy.png);
 }
 .zomojianim-48-biceps {
-    background-image: url(/images/play_animation/48/biceps.png);
+    background-image: url(/images/live/48/biceps.png);
 }
 .zomojianim-48-bye-bye {
-    background-image: url(/images/play_animation/48/bye-bye.png);
+    background-image: url(/images/live/48/bye-bye.png);
 }
 .zomojianim-48-clap {
-    background-image: url(/images/play_animation/48/clap.png);
+    background-image: url(/images/live/48/clap.png);
 }
 .zomojianim-48-fist {
-    background-image: url(/images/play_animation/48/fist.png);
+    background-image: url(/images/live/48/fist.png);
 }
 .zomojianim-48-namaste {
-    background-image: url(/images/play_animation/48/namaste.png);
+    background-image: url(/images/live/48/namaste.png);
 }
 .zomojianim-48-raising-hand {
-    background-image: url(/images/play_animation/48/raising-hand.png);
+    background-image: url(/images/live/48/raising-hand.png);
 }
 .zomojianim-48-super {
-    background-image: url(/images/play_animation/48/super.png);
+    background-image: url(/images/live/48/super.png);
 }
 .zomojianim-48-thumbsdown {
-    background-image: url(/images/play_animation/48/thumbsdown.png);
+    background-image: url(/images/live/48/thumbsdown.png);
 }
 .zomojianim-48-thumbsup {
-    background-image: url(/images/play_animation/48/thumbsup.png);
+    background-image: url(/images/live/48/thumbsup.png);
 }
 .zomojianim-48-victory {
-    background-image: url(/images/play_animation/48/victory.png);
+    background-image: url(/images/live/48/victory.png);
 }
 .zomojianim-48-yoyo {
-    background-image: url(/images/play_animation/48/yoyo.png);
+    background-image: url(/images/live/48/yoyo.png);
 }
 .zomojianim-48-birthday {
-    background-image: url(/images/play_animation/48/birthday.png);
+    background-image: url(/images/live/48/birthday.png);
 }
 .zomojianim-48-christmas-tree {
-    background-image: url(/images/play_animation/48/christmas-tree.png);
+    background-image: url(/images/live/48/christmas-tree.png);
 }
 .zomojianim-48-coffee-cup {
-    background-image: url(/images/play_animation/48/coffee-cup.png);
+    background-image: url(/images/live/48/coffee-cup.png);
 }
 .zomojianim-48-eid-mubarak {
-    background-image: url(/images/play_animation/48/eid-mubarak.png);
+    background-image: url(/images/live/48/eid-mubarak.png);
 }
 .zomojianim-48-fireworks {
-    background-image: url(/images/play_animation/48/fireworks.png);
+    background-image: url(/images/live/48/fireworks.png);
 }
 .zomojianim-48-food {
-    background-image: url(/images/play_animation/48/food.png);
+    background-image: url(/images/live/48/food.png);
 }
 .zomojianim-48-gift-box {
-    background-image: url(/images/play_animation/48/gift-box.png);
+    background-image: url(/images/live/48/gift-box.png);
 }
 .zomojianim-48-kaaba {
-    background-image: url(/images/play_animation/48/kaaba.png);
+    background-image: url(/images/live/48/kaaba.png);
 }
 .zomojianim-48-new-year {
-    background-image: url(/images/play_animation/48/new-year.png);
+    background-image: url(/images/live/48/new-year.png);
 }
 .zomojianim-48-party {
-    background-image: url(/images/play_animation/48/party.png);
+    background-image: url(/images/live/48/party.png);
 }
 .zomojianim-48-santa-hat {
-    background-image: url(/images/play_animation/48/santa-hat.png);
+    background-image: url(/images/live/48/santa-hat.png);
 }
 .zomojianim-48-fire {
-    background-image: url(/images/play_animation/48/fire.png);
+    background-image: url(/images/live/48/fire.png);
     animation-timing-function: steps(98);
     animation-duration: 3s;
     animation-name: zomojianim-48-fire;
 }
 .zomojianim-48-medicine {
-    background-image: url(/images/play_animation/48/medicine.png);
+    background-image: url(/images/live/48/medicine.png);
 }
 .zomojianim-48-poop {
-    background-image: url(/images/play_animation/48/poop.png);
+    background-image: url(/images/live/48/poop.png);
 }
 .zomojianim-48-flag {
-    background-image: url(/images/play_animation/48/flag.png);
+    background-image: url(/images/live/48/flag.png);
 }
 .zomojianim-48-table-tennis {
-    background-image: url(/images/play_animation/48/table-tennis.png);
+    background-image: url(/images/live/48/table-tennis.png);
 }
 .zomojianim-48-canoeing {
-    background-image: url(/images/play_animation/48/canoeing.png);
+    background-image: url(/images/live/48/canoeing.png);
 }
 .zomojianim-48-archer {
-    background-image: url(/images/play_animation/48/archer.png);
+    background-image: url(/images/live/48/archer.png);
 }
 .zomojianim-48-boxer {
-    background-image: url(/images/play_animation/48/boxer.png);
+    background-image: url(/images/live/48/boxer.png);
 }
 .zomojianim-48-badminton {
-    background-image: url(/images/play_animation/48/badminton.png);
+    background-image: url(/images/live/48/badminton.png);
 }
 .zomojianim-48-chess {
-    background-image: url(/images/play_animation/48/chess.png);
+    background-image: url(/images/live/48/chess.png);
 }
 .zomojianim-48-discus-throw {
-    background-image: url(/images/play_animation/48/discus-throw.png);
+    background-image: url(/images/live/48/discus-throw.png);
     animation-timing-function: steps(105);
     animation-duration: 3s;
     animation-name: zomojianim-48-discus;
 }
 .zomojianim-48-diver {
-    background-image: url(/images/play_animation/48/diver.png);
+    background-image: url(/images/live/48/diver.png);
     animation-timing-function: steps(65);
     animation-duration: 3s;
     animation-name: zomojianim-48-diver;
 }
 .zomojianim-48-equestrian {
-    background-image: url(/images/play_animation/48/equestrian.png);
+    background-image: url(/images/live/48/equestrian.png);
     animation-timing-function: steps(80);
     animation-duration: 3s;
     animation-name: zomojianim-48-equestrian;
 }
 .zomojianim-48-fencer {
-    background-image: url(/images/play_animation/48/fencer.png);
+    background-image: url(/images/live/48/fencer.png);
 }
 .zomojianim-48-football {
-    background-image: url(/images/play_animation/48/football.png);
+    background-image: url(/images/live/48/football.png);
 }
 .zomojianim-48-hockey {
-    background-image: url(/images/play_animation/48/hockey.png);
+    background-image: url(/images/live/48/hockey.png);
 }
 .zomojianim-48-hurdler {
-    background-image: url(/images/play_animation/48/hurdler.png);
+    background-image: url(/images/live/48/hurdler.png);
 }
 .zomojianim-48-javelin-throw {
-    background-image: url(/images/play_animation/48/javelin-throw.png);
+    background-image: url(/images/live/48/javelin-throw.png);
     animation-timing-function: steps(109);
     animation-duration: 3s;
     animation-name: zomojianim-48-javelin;
 }
 .zomojianim-48-judo {
-    background-image: url(/images/play_animation/48/judo.png);
+    background-image: url(/images/live/48/judo.png);
     animation-timing-function: steps(81);
     animation-duration: 3s;
     animation-name: zomojianim-48-judo;
 }
 .zomojianim-48-long-jump {
-    background-image: url(/images/play_animation/48/long-jump.png);
+    background-image: url(/images/live/48/long-jump.png);
     animation-timing-function: steps(101);
     animation-duration: 3s;
     animation-name: zomojianim-48-jump;
 }
 .zomojianim-48-pole-vault {
-    background-image: url(/images/play_animation/48/pole-vault.png);
+    background-image: url(/images/live/48/pole-vault.png);
 }
 .zomojianim-48-athlete {
-    background-image: url(/images/play_animation/48/athlete.png);
+    background-image: url(/images/live/48/athlete.png);
     animation-timing-function: steps(24);
     animation-duration: 1s;
     animation-name: zomojianim-48-athelete;
 }
 .zomojianim-48-rhythmic-gymnastics {
-    background-image: url(/images/play_animation/48/rhythmic-gymnastics.png);
+    background-image: url(/images/live/48/rhythmic-gymnastics.png);
 }
 .zomojianim-48-shotput-throw {
-    background-image: url(/images/play_animation/48/shotput-throw.png);
+    background-image: url(/images/live/48/shotput-throw.png);
     animation-timing-function: steps(111);
     animation-duration: 3s;
     animation-name: zomojianim-48-shortput;
 }
 .zomojianim-48-high-jump {
-    background-image: url(/images/play_animation/48/high-jump.png);
+    background-image: url(/images/live/48/high-jump.png);
     animation-timing-function: steps(101);
     animation-duration: 3s;
     animation-name: zomojianim-48-jump;
 }
 .zomojianim-48-snooker {
-    background-image: url(/images/play_animation/48/snooker.png);
+    background-image: url(/images/live/48/snooker.png);
 }
 .zomojianim-48-baseball {
-    background-image: url(/images/play_animation/48/baseball.png);
+    background-image: url(/images/live/48/baseball.png);
 }
 .zomojianim-48-cricket {
-    background-image: url(/images/play_animation/48/cricket.png);
+    background-image: url(/images/live/48/cricket.png);
 }
 .zomojianim-48-foosball {
-    background-image: url(/images/play_animation/48/foosball.png);
+    background-image: url(/images/live/48/foosball.png);
 }
 .zomojianim-48-basketball {
-    background-image: url(/images/play_animation/48/basketball.png);
+    background-image: url(/images/live/48/basketball.png);
 }
 .zomojianim-48-shooter {
-    background-image: url(/images/play_animation/48/shooter.png);
+    background-image: url(/images/live/48/shooter.png);
 }

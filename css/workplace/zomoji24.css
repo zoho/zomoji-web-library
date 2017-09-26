@@ -1,7 +1,7 @@
 /*$Id$*/
 
 [class^="zomoji-w-24-"] {
-    background: url(/images/work/zomoji24.png);
+    background: url(/images/workplace/zomoji24.png);
     background-repeat: no-repeat;
     cursor: default;
     display: inline-block;
@@ -18,7 +18,7 @@ screen and (min-device-pixel-ratio: 2),
 screen and (min-resolution: 192dpi),
 screen and (min-resolution: 2dppx) {
     [class^="zomoji-w-24-"] {
-        background: url(/images/work/zomoji48.png) no-repeat;
+        background: url(/images/workplace/zomoji48.png) no-repeat;
         background-size: 240px 600px;
     }
 }

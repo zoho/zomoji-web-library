@@ -1,7 +1,7 @@
 /*$Id$*/
 
-[class^="zomoji-w-48"] {
-    background: url(/images/work/zomoji48.png);
+[class^="zomoji-f-48"] {
+    background: url(/images/fun/zomoji48.png);
     background-repeat: no-repeat;
     cursor: default;
     display: inline-block;
@@ -11,724 +11,724 @@
     width: 48px;
 }
 
-.zomoji-w-48-smile {
+.zomoji-f-48-smile {
     background-position: 0px 0px;
 }
 
-.zomoji-w-48-happy {
+.zomoji-f-48-happy {
     background-position: -48px 0px;
 }
 
-.zomoji-w-48-joy {
+.zomoji-f-48-joy {
     background-position: -96px 0px;
 }
 
-.zomoji-w-48-grinning {
+.zomoji-f-48-grinning {
     background-position: -144px 0px;
 }
 
-.zomoji-w-48-cool {
+.zomoji-f-48-cool {
     background-position: -192px 0px;
 }
 
-.zomoji-w-48-love {
-    background-position: -240px 0px;
-}
-
-.zomoji-w-48-curious {
+.zomoji-f-48-curious {
     background-position: -288px 0px;
 }
 
-.zomoji-w-48-awe {
+.zomoji-f-48-awe {
     background-position: -336px 0px;
 }
 
-.zomoji-w-48-thinking {
+.zomoji-f-48-thinking {
     background-position: -384px 0px;
 }
 
-.zomoji-w-48-search {
+.zomoji-f-48-search {
     background-position: -432px 0px;
 }
 
-.zomoji-w-48-idea {
+.zomoji-f-48-idea {
     background-position: 0px -48px;
 }
 
-.zomoji-w-48-wink {
+.zomoji-f-48-wink {
     background-position: -48px -48px;
 }
 
-.zomoji-w-48-razz {
+.zomoji-f-48-razz {
     background-position: -96px -48px;
 }
 
-.zomoji-w-48-relaxed {
+.zomoji-f-48-relaxed {
     background-position: -144px -48px;
 }
 
-.zomoji-w-48-peace {
+.zomoji-f-48-peace {
     background-position: -192px -48px;
 }
 
-.zomoji-w-48-yummy {
+.zomoji-f-48-yummy {
     background-position: -240px -48px;
 }
 
-.zomoji-w-48-yuck {
+.zomoji-f-48-yuck {
     background-position: -288px -48px;
 }
 
-.zomoji-w-48-sad {
+.zomoji-f-48-sad {
     background-position: -336px -48px;
 }
 
-.zomoji-w-48-blush {
+.zomoji-f-48-blush {
     background-position: -384px -48px;
 }
 
-.zomoji-w-48-upset {
+.zomoji-f-48-upset {
     background-position: -432px -48px;
 }
 
-.zomoji-w-48-anxious {
+.zomoji-f-48-anxious {
     background-position: 0px -96px;
 }
 
-.zomoji-w-48-worry {
+.zomoji-f-48-worry {
     background-position: -48px -96px;
 }
 
-.zomoji-w-48-stressed-out {
+.zomoji-f-48-stressed-out {
     background-position: -96px -96px;
 }
 
-.zomoji-w-48-angry {
+.zomoji-f-48-angry {
     background-position: -144px -96px;
 }
 
-.zomoji-w-48-tensed {
+.zomoji-f-48-tensed {
     background-position: -192px -96px;
 }
 
-.zomoji-w-48-tired {
+.zomoji-f-48-tired {
     background-position: -240px -96px;
 }
 
-.zomoji-w-48-bored {
+.zomoji-f-48-bored {
     background-position: -288px -96px;
 }
 
-.zomoji-w-48-sleepy {
+.zomoji-f-48-sleepy {
     background-position: -336px -96px;
 }
 
-.zomoji-w-48-jealous {
+.zomoji-f-48-jealous {
     background-position: -384px -96px;
 }
 
-.zomoji-w-48-evil {
+.zomoji-f-48-evil {
     background-position: -432px -96px;
 }
 
-.zomoji-w-48-facepalm {
+.zomoji-f-48-facepalm {
     background-position: 0px -144px;
 }
 
-.zomoji-w-48-doubt {
+.zomoji-f-48-doubt {
     background-position: -48px -144px;
 }
 
-.zomoji-w-48-surprise {
+.zomoji-f-48-surprise {
     background-position: -96px -144px;
 }
 
-.zomoji-w-48-faint {
+.zomoji-f-48-faint {
     background-position: -144px -144px;
 }
 
-.zomoji-w-48-headache {
+.zomoji-f-48-headache {
     background-position: -192px -144px;
 }
 
-.zomoji-w-48-sick {
+.zomoji-f-48-sick {
     background-position: -240px -144px;
 }
 
-.zomoji-w-48-injured {
+.zomoji-f-48-injured {
     background-position: -288px -144px;
 }
 
-.zomoji-w-48-neutral {
+.zomoji-f-48-neutral {
     background-position: -336px -144px;
 }
 
-.zomoji-w-48-smirk {
+.zomoji-f-48-smirk {
     background-position: -384px -144px;
 }
 
-.zomoji-w-48-keep-quiet {
+.zomoji-f-48-keep-quiet {
     background-position: -432px -144px;
 }
 
-.zomoji-w-48-feeling-warm {
+.zomoji-f-48-feeling-warm {
     background-position: 0px -192px;
 }
 
-.zomoji-w-48-feeling-cold {
+.zomoji-f-48-feeling-cold {
     background-position: -48px -192px;
 }
 
-.zomoji-w-48-thumbsup {
+.zomoji-f-48-thumbsup {
     background-position: 0px -240px;
 }
 
-.zomoji-w-48-thumbsdown {
+.zomoji-f-48-thumbsdown {
     background-position: -48px -240px;
 }
 
-.zomoji-w-48-namaste {
+.zomoji-f-48-namaste {
     background-position: -96px -240px;
 }
 
-.zomoji-w-48-super {
+.zomoji-f-48-super {
     background-position: -144px -240px;
 }
 
-.zomoji-w-48-victory {
+.zomoji-f-48-victory {
     background-position: -192px -240px;
 }
 
-.zomoji-w-48-yoyo {
+.zomoji-f-48-yoyo {
     background-position: -240px -240px;
 }
 
-.zomoji-w-48-raising-hand {
+.zomoji-f-48-raising-hand {
     background-position: -288px -240px;
 }
 
-.zomoji-w-48-clap {
+.zomoji-f-48-clap {
     background-position: -336px -240px;
 }
 
-.zomoji-w-48-bye-bye {
+.zomoji-f-48-bye-bye {
     background-position: -384px -240px;
 }
 
-.zomoji-w-48-fist {
+.zomoji-f-48-fist {
     background-position: -432px -240px;
 }
 
-.zomoji-w-48-biceps {
+.zomoji-f-48-biceps {
     background-position: 0px -288px;
 }
 
-.zomoji-w-48-flag {
+.zomoji-f-48-flag {
     background-position: 0px -336px;
 }
 
-.zomoji-w-48-target {
+.zomoji-f-48-target {
     background-position: -48px -336px;
 }
 
-.zomoji-w-48-foosball {
+.zomoji-f-48-foosball {
     background-position: -96px -336px;
 }
 
-.zomoji-w-48-pingpong {
+.zomoji-f-48-pingpong {
     background-position: -96px -574px;
 }
 
-.zomoji-w-48-coffee-cup {
+.zomoji-f-48-coffee-cup {
     background-position: 0px -384px;
 }
 
-.zomoji-w-48-food {
+.zomoji-f-48-food {
     background-position: -48px -384px;
 }
 
-.zomoji-w-48-chicken {
+.zomoji-f-48-chicken {
     background-position: -96px -384px;
 }
 
-.zomoji-w-48-gift-box {
+.zomoji-f-48-gift-box {
     background-position: -144px -384px;
 }
 
-.zomoji-w-48-champagne {
+.zomoji-f-48-champagne {
     background-position: -192px -384px;
 }
 
-.zomoji-w-48-party {
+.zomoji-f-48-party {
     background-position: -240px -384px;
 }
 
-.zomoji-w-48-poop {
+.zomoji-f-48-poop {
     background-position: -288px -384px;
 }
 
-.zomoji-w-48-peanuts {
+.zomoji-f-48-peanuts {
     background-position: -336px -384px;
 }
 
-.zomoji-w-48-birthday {
+.zomoji-f-48-birthday {
     background-position: 0px -432px;
 }
 
-.zomoji-w-48-fireworks {
+.zomoji-f-48-fireworks {
     background-position: -48px -432px;
 }
 
-.zomoji-w-48-christmas-tree {
+.zomoji-f-48-christmas-tree {
     background-position: -96px -432px;
 }
 
-.zomoji-w-48-santa-hat {
+.zomoji-f-48-santa-hat {
     background-position: -144px -432px;
 }
 
-.zomoji-w-48-eid-mubarak {
+.zomoji-f-48-eid-mubarak {
     background-position: -240px -432px;
 }
 
-.zomoji-w-48-kaaba {
+.zomoji-f-48-kaaba {
     background-position: -288px -432px;
 }
 
-.zomoji-w-48-new-year {
+.zomoji-f-48-new-year {
     background-position: -192px -432px;
 }
 
-.zomoji-w-48-singing {
+.zomoji-f-48-singing {
     background-position: -0px -480px;
 }
 
-.zomoji-w-48-break-boy {
+.zomoji-f-48-break-boy {
     background-position: -48px -480px;
 }
 
-.zomoji-w-48-break-girl {
+.zomoji-f-48-break-girl {
     background-position: -96px -480px;
 }
 
-.zomoji-w-48-woman-dancing {
+.zomoji-f-48-woman-dancing {
     background-position: -144px -480px;
 }
 
-.zomoji-w-48-man-dancing {
+.zomoji-f-48-man-dancing {
     background-position: -192px -480px;
 }
 
-.zomoji-w-48-yoga {
+.zomoji-f-48-yoga {
     background-position: -240px -480px;
 }
 
-.zomoji-w-48-karate {
+.zomoji-f-48-karate {
     background-position: -288px -480px;
 }
 
-.zomoji-w-48-medicine {
+.zomoji-f-48-medicine {
     background-position: -336px -480px;
 }
 
-.zomoji-w-48-first-aid-box {
+.zomoji-f-48-first-aid-box {
     background-position: -384px -480px;
 }
 
-.zomoji-w-48-fire-extinguisher {
+.zomoji-f-48-fire-extinguisher {
     background-position: -432px -480px;
 }
 
-.zomoji-w-48-fire {
+.zomoji-f-48-fire {
     background-position: -0px -528px;
 }
 
-.zomoji-w-48-man-cycling {
+.zomoji-f-48-man-cycling {
     background-position: -48px -528px;
 }
 
-.zomoji-w-48-woman-cycling {
+.zomoji-f-48-woman-cycling {
     background-position: -96px -528px;
 }
 
-.zomoji-w-48-woman-running {
+.zomoji-f-48-woman-running {
     background-position: -144px -528px;
 }
 
-.zomoji-w-48-man-running {
+.zomoji-f-48-man-running {
     background-position: -192px -528px;
 }
 
-.zomoji-w-48-man-swimming {
+.zomoji-f-48-man-swimming {
     background-position: -240px -528px;
 }
 
-.zomoji-w-48-woman-swimming {
+.zomoji-f-48-woman-swimming {
     background-position: -288px -528px;
 }
 
-.zomoji-w-48-football {
+.zomoji-f-48-football {
     background-position: -336px -528px;
 }
 
-.zomoji-w-48-basketball {
+.zomoji-f-48-basketball {
     background-position: -384px -528px;
 }
 
-.zomoji-w-48-volleyball {
+.zomoji-f-48-volleyball {
     background-position: -432px -528px;
 }
 
-.zomoji-w-48-tennis {
+.zomoji-f-48-tennis {
     background-position: -0px -576px;
 }
 
-.zomoji-w-48-badminton {
+.zomoji-f-48-badminton {
     background-position: -48px -576px;
 }
 
-.zomoji-w-48-table-tennis {
+.zomoji-f-48-table-tennis {
     background-position: -96px -576px;
 }
 
-.zomoji-w-48-cricket {
+.zomoji-f-48-cricket {
     background-position: -144px -576px;
 }
 
-.zomoji-w-48-baseball {
+.zomoji-f-48-baseball {
     background-position: -192px -576px;
 }
 
-.zomoji-w-48-hockey {
+.zomoji-f-48-hockey {
     background-position: -240px -576px;
 }
 
-.zomoji-w-48-golf {
+.zomoji-f-48-golf {
     background-position: -288px -576px;
 }
 
-.zomoji-w-48-snooker {
+.zomoji-f-48-snooker {
     background-position: -336px -576px;
 }
 
-.zomoji-w-48-chess {
+.zomoji-f-48-chess {
     background-position: -384px -576px;
 }
 
-.zomoji-w-48-football-player {
+.zomoji-f-48-football-player {
     background-position: -0px -624px;
 }
 
-.zomoji-w-48-basketball-player {
+.zomoji-f-48-basketball-player {
     background-position: -48px -624px;
 }
 
-.zomoji-w-48-male-volleyball-player {
+.zomoji-f-48-male-volleyball-player {
     background-position: -96px -624px;
 }
 
-.zomoji-w-48-female-volleyball-player {
+.zomoji-f-48-female-volleyball-player {
     background-position: -144px -624px;
 }
 
-.zomoji-w-48-female-tennis-player {
+.zomoji-f-48-female-tennis-player {
     background-position: -192px -624px;
 }
 
-.zomoji-w-48-male-tennis-player {
+.zomoji-f-48-male-tennis-player {
     background-position: -240px -624px;
 }
 
-.zomoji-w-48-badminton-player {
+.zomoji-f-48-badminton-player {
     background-position: -288px -624px;
 }
 
-.zomoji-w-48-male-tabletennis-player {
+.zomoji-f-48-male-tabletennis-player {
     background-position: -336px -624px;
 }
 
-.zomoji-w-48-female-tabletennis-player {
+.zomoji-f-48-female-tabletennis-player {
     background-position: -384px -624px;
 }
 
-.zomoji-w-48-batsman {
+.zomoji-f-48-batsman {
     background-position: -432px -624px;
 }
 
-.zomoji-w-48-bowler {
+.zomoji-f-48-bowler {
     background-position: -0px -672px;
 }
 
-.zomoji-w-48-batter {
+.zomoji-f-48-batter {
     background-position: -48px -672px;
 }
 
-.zomoji-w-48-pitcher {
+.zomoji-f-48-pitcher {
     background-position: -96px -672px;
 }
 
-.zomoji-w-48-hockey-player {
+.zomoji-f-48-hockey-player {
     background-position: -144px -672px;
 }
 
-.zomoji-w-48-golfer {
+.zomoji-f-48-golfer {
     background-position: -192px -672px;
 }
 
-.zomoji-w-48-gymnast {
+.zomoji-f-48-gymnast {
     background-position: -240px -672px;
 }
 
-.zomoji-w-48-snooker-player {
+.zomoji-f-48-snooker-player {
     background-position: -288px -672px;
 }
 
-.zomoji-w-48-chess-player {
+.zomoji-f-48-chess-player {
     background-position: -336px -672px;
 }
 
-.zomoji-w-48-gold-medal {
+.zomoji-f-48-gold-medal {
     background-position: -0px -720px;
 }
 
-.zomoji-w-48-silver-medal {
+.zomoji-f-48-silver-medal {
     background-position: -48px -720px;
 }
 
-.zomoji-w-48-bronze-medal {
+.zomoji-f-48-bronze-medal {
     background-position: -96px -720px;
 }
 
-.zomoji-w-48-refugee-olympic-team {
+.zomoji-f-48-refugee-olympic-team {
     background-position: -144px -720px;
 }
 
-.zomoji-w-48-athlete {
+.zomoji-f-48-athlete {
     background-position: -192px -720px;
 }
 
-.zomoji-w-48-hurdler {
+.zomoji-f-48-hurdler {
     background-position: -240px -720px;
 }
 
-.zomoji-w-48-high-jump {
+.zomoji-f-48-high-jump {
     background-position: -288px -720px;
 }
 
-.zomoji-w-48-long-jump {
+.zomoji-f-48-long-jump {
     background-position: -336px -720px;
 }
 
-.zomoji-w-48-pole-vault {
+.zomoji-f-48-pole-vault {
     background-position: -384px -720px;
 }
 
-.zomoji-w-48-discus-throw {
+.zomoji-f-48-discus-throw {
     background-position: -432px -720px;
 }
 
 
-.zomoji-w-48-hammer-throw {
+.zomoji-f-48-hammer-throw {
     background-position: -0px -768px;
 }
 
-.zomoji-w-48-javelin-throw {
+.zomoji-f-48-javelin-throw {
     background-position: -48px -768px;
 }
 
-.zomoji-w-48-shotput-throw {
+.zomoji-f-48-shotput-throw {
     background-position: -96px -768px;
 }
 
-.zomoji-w-48-boxer {
+.zomoji-f-48-boxer {
     background-position: -144px -768px;
 }
 
-.zomoji-w-48-fencer {
+.zomoji-f-48-fencer {
     background-position: -192px -768px;
 }
 
-.zomoji-w-48-judo {
+.zomoji-f-48-judo {
     background-position: -240px -768px;
 }
 
-.zomoji-w-48-weightlifting {
+.zomoji-f-48-weightlifting {
     background-position: -288px -768px;
 }
 
-.zomoji-w-48-wrestling {
+.zomoji-f-48-wrestling {
     background-position: -336px -768px;
 }
 
-.zomoji-w-48-archer {
+.zomoji-f-48-archer {
     background-position: -384px -768px;
 }
 
-.zomoji-w-48-shooter {
+.zomoji-f-48-shooter {
     background-position: -432px -768px;
 }
 
-.zomoji-w-48-equestrian {
+.zomoji-f-48-equestrian {
     background-position: -0px -816px;
 }
 
-.zomoji-w-48-canoeing {
+.zomoji-f-48-canoeing {
     background-position: -48px -816px;
 }
 
-.zomoji-w-48-diver {
+.zomoji-f-48-diver {
     background-position: -96px -816px;
 }
 
-.zomoji-w-48-rhythmic-gymnastics {
+.zomoji-f-48-rhythmic-gymnastics {
     background-position: -144px -816px;
 }
 
-.zomoji-w-48-bicycle {
+.zomoji-f-48-bicycle {
     background-position: 0px -864px;
 }
 
-.zomoji-w-48-sports-bike {
+.zomoji-f-48-sports-bike {
     background-position: -48px -866px;
 }
 
-.zomoji-w-48-cruiser-bike {
+.zomoji-f-48-cruiser-bike {
     background-position: -96px -870px;
 }
 
-.zomoji-w-48-motor-scooter {
+.zomoji-f-48-motor-scooter {
     background-position: -144px -870px;
 }
 
-.zomoji-w-48-car {
+.zomoji-f-48-car {
     background-position: -192px -870px;
 }
 
-.zomoji-w-48-taxi {
+.zomoji-f-48-taxi {
     background-position: -240px -868px;
 }
 
-.zomoji-w-48-bus {
+.zomoji-f-48-bus {
     background-position: -288px -870px;
 }
 
-.zomoji-w-48-train {
+.zomoji-f-48-train {
     background-position: -336px -870px;
 }
 
-.zomoji-w-48-police-car {
+.zomoji-f-48-police-car {
     background-position: -384px -868px;
 }
 
-.zomoji-w-48-ambulance {
+.zomoji-f-48-ambulance {
     background-position: -432px -864px;
 }
 
-.zomoji-w-48-fire-engine {
+.zomoji-f-48-fire-engine {
     background-position: 0 -910px;
 }
 
-.zomoji-w-48-aeroplane {
+.zomoji-f-48-aeroplane {
     background-position: -48px -912px;
 }
 
-.zomoji-w-48-passenger-ship {
+.zomoji-f-48-passenger-ship {
     background-position: -98px -912px;
 }
 
-.zomoji-w-48-parking {
+.zomoji-f-48-parking {
     background-position: 2px -960px;
 }
 
-.zomoji-w-48-cafeteria {
+.zomoji-f-48-cafeteria {
     background-position: -48px -960px;
 }
 
-.zomoji-w-48-bug {
+.zomoji-f-48-bug {
     background-position: -96px -1054px;
 }
 
-.zomoji-w-48-milestone {
+.zomoji-f-48-milestone {
     background-position: -144px -1054px;
 }
 
-.zomoji-w-48-security {
+.zomoji-f-48-security {
     background-position: -240px -1054px;
 }
 
-.zomoji-w-48-calendar {
+.zomoji-f-48-calendar {
     background-position: -192px -1056px;
 }
 
-.zomoji-w-48-processor {
+.zomoji-f-48-processor {
     background-position: -288px -1056px;
 }
 
-.zomoji-w-48-laptop {
+.zomoji-f-48-laptop {
     background-position: -336px -1056px;
 }
 
-.zomoji-w-48-server {
+.zomoji-f-48-server {
     background-position: -384px -1054px;
 }
 
-.zomoji-w-48-garden {
+.zomoji-f-48-garden {
     background-position: -96px -958px;
 }
 
-.zomoji-w-48-playground {
+.zomoji-f-48-playground {
     background-position: -144px -960px;
 }
 
-.zomoji-w-48-home {
+.zomoji-f-48-home {
     background-position: -192px -958px;
 }
 
-.zomoji-w-48-office {
+.zomoji-f-48-office {
     background-position: -240px -958px;
 }
 
-.zomoji-w-48-library {
+.zomoji-f-48-library {
     background-position: -288px -960px;
 }
 
-.zomoji-w-48-auditorium {
+.zomoji-f-48-auditorium {
     background-position: -336px -960px;
 }
 
-.zomoji-w-48-store {
+.zomoji-f-48-store {
     background-position: -384px -958px;
 }
 
-.zomoji-w-48-mail-room {
+.zomoji-f-48-mail-room {
     background-position: -432px -958px;
 }
 
-.zomoji-w-48-pharmacy {
+.zomoji-f-48-pharmacy {
     background-position: 0 -1006px;
 }
 
-.zomoji-w-48-task {
+.zomoji-f-48-task {
     background-position: 0 -1054px;
 }
 
-.zomoji-w-48-report {
+.zomoji-f-48-report {
     background-position: -48px -1054px;
 }
 
-.zomoji-w-48-gym {
+.zomoji-f-48-gym {
     background-position: -50px -1008px;
 }
 
-.zomoji-w-48-americas {
+.zomoji-f-48-americas {
     background-position: -432px -1054px;
 }
 
-.zomoji-w-48-europe-africa {
+.zomoji-f-48-europe-africa {
     background-position: 0px -1102px;
 }
 
-.zomoji-w-48-asia-pacific {
+.zomoji-f-48-asia-pacific {
     background-position: -48px -1104px;
 }
 
+/*Patch work*/
+.zomoji-f-48-love {
+    background-position: 0 -1150px;
+}

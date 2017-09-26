@@ -3,11 +3,11 @@ This library can change this ":curious:"
 
 into this 
 
-<img src="../readme_assets/curious-work.png?raw=true" alt="curious" height="48" width="48">
+<img src="../readme_assets/curious-workplace.png?raw=true" alt="curious" height="48" width="48">
 
 or this 
 
-<img src="../readme_assets/curious-play.png?raw=true" alt="curious" height="48" width="48">
+<img src="../readme_assets/curious-fun.png?raw=true" alt="curious" height="48" width="48">
 
 or this :O
 
@@ -32,7 +32,7 @@ var zomojifiedhtml = zomoji.replace( textcontent );
 You can pass size of the emoji and its type in config object. 
 
 Supported options are:
-* type //Type can be "work" or "play"
+* type //Type can be "workplace" or "fun"
 * default_size //Size for the zomoji when it is present alone
 * along_text_size //Size for the zomoji when it comes along the text
 

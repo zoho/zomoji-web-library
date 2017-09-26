@@ -1,6 +1,6 @@
 function Zomoji( config ) {
-    var type = ( config && config.type ) || "work";
-    this.type = type === "work" ? "w" : "p";
+    var type = ( config && config.type ) || "workplace";
+    this.type = type === "workplace" ? "w" : "f";
     this.default_size = ( config && config.default_size ) || 72;
     this.along_text_size = ( config && config.along_text_size ) || 24;
     var animation_config = config && config.animation;
